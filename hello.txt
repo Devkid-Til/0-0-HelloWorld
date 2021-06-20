@@ -17,3 +17,4 @@ Hei~i'm learning git for my skill.
 Hei~i'm learning git for my skill.
 Hei~i'm learning git for my skill. master test
 Hei~i'm learning git for my skill. hot-fix test
+github test
